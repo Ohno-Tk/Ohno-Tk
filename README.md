@@ -6,7 +6,7 @@
 </a>
 
 <!--
-**takuya-ohno/takuya-ohno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ohno1520/Ohno1520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
