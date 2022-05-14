@@ -10,6 +10,7 @@ I'm Unity engineer.
 
 ## My products
 ### [**🔊 叫ぶ配信用の補助ツール**：Shout-SupportTool](https://github.com/Ohno-Tk/Unity_Shout-SupportTool)
+- ![CLI app](https://img.shields.io/badge/-Web_app-303)
 
 Tools for visualising voice volume.
 
@@ -19,6 +20,7 @@ I have to make a list of every single song. I made it into a tool.
 
 ## Links to my page
 [![GitHub](https://img.shields.io/badge/-Here!-000?color=FFF&logo=github&logoColor=181717&style=flat)](https://github.com/Ohno-Tk)
-[![Twitter](https://img.shields.io/badge/-%40OhnoToka-000?labelColor=FFF&logo=twitter)](https://twitter.com/OhnoToka)
-[![YouTube](https://img.shields.io/badge/-ohno__Tk-000?labelColor=FFF&logo=youtube&logoColor=F00)](https://www.youtube.com/channel/UCJma8E8jVnnRXyURYcIUNAg)
 [![Qiita](https://img.shields.io/badge/-ohno--Tk-000?logo=qiita)](https://qiita.com/ohno-Tk)
+
+NICE TO MEET YOU!  
+‾‾‾‾‾‾‾‾V‾‾‾‾‾‾‾‾‾‾‾
