@@ -10,12 +10,12 @@ I'm Unity engineer.
 
 ## My products
 ### [**🔊 叫ぶ配信用の補助ツール**：Shout-SupportTool](https://github.com/Ohno-Tk/Unity_Shout-SupportTool)
-- ![Unity](https://img.shields.io/badge/-Unity-000?color=FFF&logo=Unity&logoColor=000000)
+- <img src="https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=plastic">
 
 Tools for visualising voice volume.
 
 ### [**🎵 お歌リストツール**：SongListTool](https://github.com/Ohno-Tk/Tool_SongList)
-- ![CLI app](https://img.shields.io/badge/-Web_app-303)
+- <img src="https://img.shields.io/badge/-Web_app-303">
 
 I have to make a list of every single song. I made it into a tool.
 
