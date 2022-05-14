@@ -10,7 +10,7 @@ I'm Unity engineer.
 
 ## My products
 ### [**🔊 叫ぶ配信用の補助ツール**：Shout-SupportTool](https://github.com/Ohno-Tk/Unity_Shout-SupportTool)
-- ![CLI app](https://img.shields.io/badge/-Unity-000?logo=Unity)
+- ![Unity](https://img.shields.io/badge/-Unity-000?color=FFF&logo=Unity&logoColor=000000)
 
 Tools for visualising voice volume.
 
