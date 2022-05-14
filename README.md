@@ -10,11 +10,12 @@ I'm Unity engineer.
 
 ## My products
 ### [**🔊 叫ぶ配信用の補助ツール**：Shout-SupportTool](https://github.com/Ohno-Tk/Unity_Shout-SupportTool)
-- ![CLI app](https://img.shields.io/badge/-Web_app-303)
+- ![CLI app](https://img.shields.io/badge/-Unity-000?logo=Unity)
 
 Tools for visualising voice volume.
 
 ### [**🎵 お歌リストツール**：SongListTool](https://github.com/Ohno-Tk/Tool_SongList)
+- ![CLI app](https://img.shields.io/badge/-Web_app-303)
 
 I have to make a list of every single song. I made it into a tool.
 
