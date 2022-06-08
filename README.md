@@ -1,6 +1,5 @@
 # I'm Ohno-Tk
 Hi there 👋
-I'm Unity engineer.
 
 ## GitHub statistics
 
