@@ -23,6 +23,11 @@ I have to make a list of every single song. I made it into a tool.
 
 Thumbnail coverage by platform can be checked.
 
+### [**☀ 天気表示**：WeatherDisplay](https://github.com/Ohno-Tk/Tool_WeatherDisplay/tree/v1.0)
+- <img src="https://img.shields.io/badge/-Web_app-303">
+
+Obtain and display weather information from the JMA.
+
 ## Links to my page
 [![GitHub](https://img.shields.io/badge/-Here!-000?color=FFF&logo=github&logoColor=181717&style=flat)](https://github.com/Ohno-Tk)
 [![Qiita](https://img.shields.io/badge/-ohno--Tk-000?logo=qiita)](https://qiita.com/ohno-Tk)
