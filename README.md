@@ -9,7 +9,7 @@ Hi there 👋
 
 ## My products
 ### [**🔊 叫ぶ配信用の補助ツール**：Shout-SupportTool](https://github.com/Ohno-Tk/Unity_Shout-SupportTool)
--Creation Time:2022/04 ~ 2022/05 3 Weeks
+- Creation Time:2022/04 ~ 2022/05 3 Weeks
 - <img src="https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=plastic">
 
 Tools for visualising voice volume.
