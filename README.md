@@ -36,11 +36,12 @@ Thumbnail coverage by platform can be checked.
 Obtain and display weather information from the JMA.
 気象庁から気象情報を取得して表示します。
 
-### [**☀ 告知ツール**：DisturbDisplay](https://github.com/Ohno-Tk/Unity_Tool_DisturbDisplay)
+### [**🖼️ 告知ツール**：DisturbDisplay](https://github.com/Ohno-Tk/Unity_Tool_DisturbDisplay)
 - Creation Time:2022/07 1 month
 - <img src="https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=plastic">
 
-Obtain and display weather information from the JMA.
+CM tool that displays for a certain period of time (4 to 7 minutes)
+一定時間(4~7分)で表示するCMツール
 
 ## Links to my page
 [![GitHub](https://img.shields.io/badge/-Here!-000?color=FFF&logo=github&logoColor=181717&style=flat)](https://github.com/Ohno-Tk)
