@@ -22,19 +22,25 @@ Tools for visualising voice volume.
 I have to make a list of every single song. I made it into a tool.  
 歌のセットリストツール
 
-### [**🖼️ サムネイルチェックツール**：ThumbnailChecker](https://github.com/Ohno-Tk/Tool_ThumbnailChecker)
+### [**🖼️ サムネイルチェックツール**](https://github.com/Ohno-Tk/Web_ThumbnailChecker)
 - Creation Time:2022/05 ~ 2022/06 2 Weeks
-- <img src="https://img.shields.io/badge/-Web_app-303">
+- <img src="https://custom-icon-badges.herokuapp.com/badge/HTML-e34c26.svg?logo=HTML&logoColor=white">
+- <img src="https://custom-icon-badges.herokuapp.com/badge/CSS-563d7c.svg?logo=css3">
+- <img src="https://custom-icon-badges.herokuapp.com/badge/JavaScript-f1e05a.svg?logo=JavaScript&logoColor=white">
+- <img src="https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat"> Ver3.4.1
+- <img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat"> Ver5.0
 
-Thumbnail coverage by platform can be checked.  
-プラットフォーム別のサムネイルを確認できる
+プラットフォーム別のサムネイルを確認出来る。
 
 ### [**☀ 天気表示**：WeatherDisplay](https://github.com/Ohno-Tk/Tool_WeatherDisplay)
 - Creation Time:2022/06 9 Days
-- <img src="https://img.shields.io/badge/-Web_app-303">
+- <img src="https://custom-icon-badges.herokuapp.com/badge/HTML-e34c26.svg?logo=HTML&logoColor=white">
+- <img src="https://custom-icon-badges.herokuapp.com/badge/CSS-563d7c.svg?logo=css3">
+- <img src="https://custom-icon-badges.herokuapp.com/badge/JavaScript-f1e05a.svg?logo=JavaScript&logoColor=white">
+- <img src="https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat"> Ver3.4.1
+- slick Ver1.8.1
 
-Obtain and display weather information from the JMA.  
-気象庁から気象情報を取得して表示します。
+気象庁から気象情報を取得してHTMLで表示します。
 
 ### [**🖼️ 告知ツール**：DisturbDisplay](https://github.com/Ohno-Tk/Unity_Tool_DisturbDisplay)
 - Creation Time:2022/07 1 month
@@ -42,6 +48,15 @@ Obtain and display weather information from the JMA.
 
 CM tool that displays for a certain period of time (4 to 7 minutes)  
 一定時間(4~7分)で表示するCMツール
+
+### [**🎵 シンプル歌のセットリストツール**](https://github.com/Ohno-Tk/OBS_Simple_Song_List)
+- Creation Time:2022/10 2 days
+- <img src="https://custom-icon-badges.herokuapp.com/badge/HTML-e34c26.svg?logo=HTML&logoColor=white">
+- <img src="https://custom-icon-badges.herokuapp.com/badge/CSS-563d7c.svg?logo=css3">
+- <img src="https://custom-icon-badges.herokuapp.com/badge/JavaScript-f1e05a.svg?logo=JavaScript&logoColor=white">
+- <img src="https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat"> Ver2.2.4
+
+テキストファイルを更新するだけで、歌のセットリストをOBSに表示出来る。
 
 ## Links to my page
 [![GitHub](https://img.shields.io/badge/-Here!-000?color=FFF&logo=github&logoColor=181717&style=flat)](https://github.com/Ohno-Tk)
