@@ -17,9 +17,7 @@ Tools for visualising voice volume.
 
 ### [**🎵 お歌リストツール**：SongListTool](https://github.com/Ohno-Tk/Tool_SongList)
 - Creation Time:2022/05 3 Weeks
-- <img src="https://img.shields.io/badge/-Web_app-303">
 
-I have to make a list of every single song. I made it into a tool.  
 歌のセットリストツール
 
 ### [**🖼️ サムネイルチェックツール**](https://github.com/Ohno-Tk/Web_ThumbnailChecker)
@@ -39,7 +37,7 @@ I have to make a list of every single song. I made it into a tool.
 CM tool that displays for a certain period of time (4 to 7 minutes)  
 一定時間(4~7分)で表示するCMツール
 
-### [**🎵 シンプル歌のセットリストツール**](https://github.com/Ohno-Tk/OBS_Simple_Song_List)
+### [**🎵 シンプル歌のセットリストツール**](https://github.com/Ohno-Tk/OBS_SimpleSongList)
 - Creation Time:2022/10 2 days
 
 テキストファイルを更新するだけで、歌のセットリストをOBSに表示出来る。
