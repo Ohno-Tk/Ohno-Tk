@@ -8,11 +8,9 @@ Hi there 👋
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ohno-Tk&theme=monokai)
 
 ## My products
-### [**🔊 叫ぶ配信用の補助ツール**：Shout-SupportTool](https://github.com/Ohno-Tk/Unity_Shout-SupportTool)
+### [**🔊 叫ぶ配信用の補助ツール**](https://github.com/Ohno-Tk/Unity_ShoutSupport)
 - Creation Time:2022/04 ~ 2022/05 3 Weeks
-- <img src="https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=plastic">
 
-Tools for visualising voice volume.  
 声の大きさを可視化しカウントするツール
 
 ### [**🎵 お歌リストツール**](https://github.com/Ohno-Tk/Web_SongList)
@@ -30,12 +28,10 @@ Tools for visualising voice volume.
 
 気象庁から気象情報を取得してHTMLで表示します。
 
-### [**🖼️ 告知ツール**：DisturbDisplay](https://github.com/Ohno-Tk/Unity_Tool_DisturbDisplay)
+### [**🖼️ 告知ツール**：DisturbDisplay](https://github.com/Ohno-Tk/Unity_DisturbDisplay)
 - Creation Time:2022/07 1 month
-- <img src="https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=plastic">
 
-CM tool that displays for a certain period of time (4 to 7 minutes)  
-一定時間(4~7分)で表示するCMツール
+ランダム(4~7分)で表示する画像を表示する
 
 ### [**🎵 シンプル歌のセットリストツール**](https://github.com/Ohno-Tk/OBS_SimpleSongList)
 - Creation Time:2022/10 2 days
