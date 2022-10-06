@@ -24,21 +24,11 @@ I have to make a list of every single song. I made it into a tool.
 
 ### [**🖼️ サムネイルチェックツール**](https://github.com/Ohno-Tk/Web_ThumbnailChecker)
 - Creation Time:2022/05 ~ 2022/06 2 Weeks
-- <img src="https://custom-icon-badges.herokuapp.com/badge/HTML-e34c26.svg?logo=HTML&logoColor=white">
-- <img src="https://custom-icon-badges.herokuapp.com/badge/CSS-563d7c.svg?logo=css3">
-- <img src="https://custom-icon-badges.herokuapp.com/badge/JavaScript-f1e05a.svg?logo=JavaScript&logoColor=white">
-- <img src="https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat"> Ver3.4.1
-- <img src="https://img.shields.io/badge/-Bootstrap-563D7C.svg?logo=bootstrap&style=flat"> Ver5.0
 
 プラットフォーム別のサムネイルを確認出来る。
 
 ### [**☀ 天気表示**：WeatherDisplay](https://github.com/Ohno-Tk/Tool_WeatherDisplay)
 - Creation Time:2022/06 9 Days
-- <img src="https://custom-icon-badges.herokuapp.com/badge/HTML-e34c26.svg?logo=HTML&logoColor=white">
-- <img src="https://custom-icon-badges.herokuapp.com/badge/CSS-563d7c.svg?logo=css3">
-- <img src="https://custom-icon-badges.herokuapp.com/badge/JavaScript-f1e05a.svg?logo=JavaScript&logoColor=white">
-- <img src="https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat"> Ver3.4.1
-- slick Ver1.8.1
 
 気象庁から気象情報を取得してHTMLで表示します。
 
@@ -51,10 +41,6 @@ CM tool that displays for a certain period of time (4 to 7 minutes)
 
 ### [**🎵 シンプル歌のセットリストツール**](https://github.com/Ohno-Tk/OBS_Simple_Song_List)
 - Creation Time:2022/10 2 days
-- <img src="https://custom-icon-badges.herokuapp.com/badge/HTML-e34c26.svg?logo=HTML&logoColor=white">
-- <img src="https://custom-icon-badges.herokuapp.com/badge/CSS-563d7c.svg?logo=css3">
-- <img src="https://custom-icon-badges.herokuapp.com/badge/JavaScript-f1e05a.svg?logo=JavaScript&logoColor=white">
-- <img src="https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat"> Ver2.2.4
 
 テキストファイルを更新するだけで、歌のセットリストをOBSに表示出来る。
 
