@@ -15,7 +15,7 @@ Hi there 👋
 Tools for visualising voice volume.  
 声の大きさを可視化しカウントするツール
 
-### [**🎵 お歌リストツール**：SongListTool](https://github.com/Ohno-Tk/Tool_SongList)
+### [**🎵 お歌リストツール**](https://github.com/Ohno-Tk/Web_SongList)
 - Creation Time:2022/05 3 Weeks
 
 歌のセットリストツール
@@ -25,7 +25,7 @@ Tools for visualising voice volume.
 
 プラットフォーム別のサムネイルを確認出来る。
 
-### [**☀ 天気表示**：WeatherDisplay](https://github.com/Ohno-Tk/Tool_WeatherDisplay)
+### [**☀ 天気表示**](https://github.com/Ohno-Tk/OBS_WeatherDisplay)
 - Creation Time:2022/06 9 Days
 
 気象庁から気象情報を取得してHTMLで表示します。
