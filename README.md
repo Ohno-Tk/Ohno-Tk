@@ -2,10 +2,13 @@
 Hi there 👋
 
 ## GitHub statistics
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ohno-Tk&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Ohno-Tk&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Ohno-Tk&count_private=true&show_icons=true&theme=dark)
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=Ohno-Tk&hide=html&layout=compact&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ohno-Tk&theme=monokai)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ohno-Tk&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My products
 ### [**🔊 叫ぶ配信用の補助ツール**](https://github.com/Ohno-Tk/Unity_ShoutSupport)
