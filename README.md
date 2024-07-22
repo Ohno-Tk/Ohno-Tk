@@ -10,6 +10,10 @@
   </a>
 </p>
 
+### Zenn Articles
+<!-- profile updater begin: zenn -->
+<!-- profile updater end: zenn -->
+
 ## Qiita
 <p align="center">
   <a href="https://qiita.com/ohno-Tk">
@@ -19,6 +23,10 @@
     <img src="https://badgen.org/img/qiita/ohno-Tk/contributions?style=for-the-badge" alt="Contributions" />
   </a>
 </p>
+
+### Qiita Articles
+<!-- profile updater begin: qiita -->
+<!-- profile updater end: qiita -->
 
 ## AtCoder
 <p align="center">
