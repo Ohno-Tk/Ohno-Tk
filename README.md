@@ -12,6 +12,10 @@
 
 ### Zenn Articles
 <!-- profile updater begin: zenn -->
+- Jul 20 [役に立つ記事まとめ](https://zenn.dev/oh_no/articles/cf93966f24b906)
+- Apr 29 [Git基礎](https://zenn.dev/oh_no/articles/8cfdbd547cf314)
+- Apr 29 [IT用語](https://zenn.dev/oh_no/articles/3ba87cb4d9cd8c)
+- Apr 26 [SQL基礎](https://zenn.dev/oh_no/articles/f2d47dc14b9fef)
 <!-- profile updater end: zenn -->
 
 ## Qiita
@@ -26,6 +30,11 @@
 
 ### Qiita Articles
 <!-- profile updater begin: qiita -->
+- Dec 16 [VB.NET Excelのプロセスが残る…](https://qiita.com/ohno-Tk/items/64971acad885631f0f8f)
+- Dec 4, **1 LGTM** [シェルスクリプトを実行すると『コマンドが見つかりません』と出る場合](https://qiita.com/ohno-Tk/items/1471e3ea36212440d231)
+- Jul 17 [ヒューマンエラーとは　メモ](https://qiita.com/ohno-Tk/items/a95c13d60caa091b5f6a)
+- Apr 6, **2 LGTM** [【備忘録】Cisco機器のコマンド集](https://qiita.com/ohno-Tk/items/f4d93cd872ea288c980d)
+- Mar 29 [【備忘録】telnetとssh違い](https://qiita.com/ohno-Tk/items/ae0d6991adc75063b2e5)
 <!-- profile updater end: qiita -->
 
 ## AtCoder
